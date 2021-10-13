@@ -1,2 +1,2 @@
-# Database MySQL
+# Database SQL
  
